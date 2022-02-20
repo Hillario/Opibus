@@ -6,7 +6,8 @@ Each folder represents each question
 
 Question 1:
 
-  [SERVER]
+  SERVER
+
   -Open phpmyadmin and create a database 'opibus1'
   -Select database
   -Import opibus1.sql database from the root folder
@@ -14,13 +15,15 @@ Question 1:
   -open index.js file and check that database credentials match yours
   -run 'npm run server'
 
-  [CLIENT]
+  CLIENT
+
   -change directory to client in Q1 folder
   -run 'npm start'
 
 Question 2:
 
-  [SERVER]
+  SERVER 
+
   -Open phpmyadmin and create a database 'opibus2'
   -Select database
   -Import opibus2.sql database from the root folder
@@ -28,7 +31,8 @@ Question 2:
   -open index.js file and check that database credentials match yours
   -run 'npm run server'
 
-  [CLIENT]
+  CLIENT
+  
   -change directory to client in Q2 folder
   -run 'npm start'
 
