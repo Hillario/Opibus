@@ -4,6 +4,8 @@ Each folder represents each question
 
 ## Getting Started
 
+  - Ensure Node JS is installed
+
 Question 1:
 
   SERVER
